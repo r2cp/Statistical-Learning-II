@@ -1,3 +1,7 @@
 # Ignorar folder de checkpoints
 Anomaly-detection/.ipynb_checkpoints/
 
+# Checkpoints del proyecto
+proyecto/convnet-animal-classification/.ipynb_checkpoints/
+proyecto/mlp-airbnb-prediction/.ipynb_checkpoints/
+proyecto/rnn-inflation-forecast-gt/.ipynb_checkpoints/

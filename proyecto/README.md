@@ -1,4 +1,4 @@
-#Proyecto final del curso Statistical Learning II
+# Proyecto final del curso Statistical Learning II
 Implementación de los tres tipos de arquitecturas más utilizadas en deep learning.
 
 Elaborado por Rodrigo Rafael Chang Papa,

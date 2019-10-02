@@ -3,5 +3,7 @@ Anomaly-detection/.ipynb_checkpoints/
 
 # Checkpoints del proyecto
 proyecto/convnet-animal-classification/.ipynb_checkpoints/
+proyecto/convnet-animal-classification/validation/
+proyecto/convnet-animal-classification/model-weights-cnn.best.hdf5
 proyecto/mlp-airbnb-prediction/.ipynb_checkpoints/
 proyecto/rnn-inflation-forecast-gt/.ipynb_checkpoints/
